@@ -1,3 +1,8 @@
+# Ruby on Rails チュートリアル：サンプルアプリケーション
+
+This is the first appligation for the[*Ruby on Rails Tutorial*](http://railstutorial.jp/)by[Y-Chongtian]
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
